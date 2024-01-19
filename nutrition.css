@@ -1,0 +1,47 @@
+hr{
+    height: 1px;
+    background-color: black;
+}
+.one{
+    height:4px;
+    background-color: black;
+}
+.two{
+    height:7px;
+    background-color: black;
+}
+.three{
+    height:10px;
+    background-color: black;
+}
+.percent{
+    text-align: right;
+    width: 25%;
+    font-weight:700px;
+}
+.servings{
+    text-align:left;
+    width: 75%;
+}
+body{
+    background-color: azure;
+    background-size: cover;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu{
+    
+    margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 700px;
+}
+h2,p,body{
+text-align: center;
+}
+.Daily-Value p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
